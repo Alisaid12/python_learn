@@ -1,0 +1,22 @@
+{
+    "teams": [
+        {
+            "name": "",
+            "player": [
+                {},
+                {}
+            ],
+            "coach": {},
+            "stadium": ""
+        },
+        {
+            "name": "",
+            "player": {},
+            "coach": ""
+        }
+    ],
+    "match": {
+        "teams": [],
+        "result": ""
+    }
+}
