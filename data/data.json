@@ -1,0 +1,61 @@
+{
+  "teams": [
+    {
+      "name": "Equipo Ejemplo",
+      "coach": {
+        "fname": "Default",
+        "lname": "Coach",
+        "age": 40,
+        "tactic": "4-4-2"
+      },
+      "player": [
+        {
+          "fname": "Lionel",
+          "lname": "Messi",
+          "age": 34,
+          "team": "Equipo Ejemplo",
+          "score_goal": 30
+        },
+        {
+          "fname": "Cristiano",
+          "lname": "Ronaldo",
+          "age": 36,
+          "team": "Equipo Ejemplo",
+          "score_goal": 25
+        }
+      ],
+      "stadium": "Estadio Ejemplo"
+    },
+    {
+      "name": "Equipo Rival",
+      "coach": {
+        "fname": "Rival",
+        "lname": "Coach",
+        "age": 45,
+        "tactic": "3-5-2"
+      },
+      "player": [],
+      "stadium": "Estadio Rival"
+    },
+    {
+      "name": "real",
+      "coach": {
+        "fname": "alii",
+        "lname": "alii",
+        "age": 12,
+        "tactic": "312"
+      },
+      "player": [],
+      "stadium": "ddd"
+    }
+  ],
+  "matches": [
+    {
+      "teams": [
+        "Equipo Rival",
+        "real"
+      ],
+      "result": "0-11"
+    }
+  ]
+}
